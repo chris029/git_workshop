@@ -1,6 +1,7 @@
 clc
 clear
 
+% comment to test matlab commit
 
 fs = 100;
 t = 0:1/fs:1;
